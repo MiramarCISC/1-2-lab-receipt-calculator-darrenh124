@@ -21,4 +21,4 @@ double calculateTip(double subtotal, double tipPercent) {
 double calculateTotal(double subtotal, double tax, double tip) {
     return subtotal + tax + tip ;
 }
-// Jaime: all of the returns appeared on 0.0, so I added the formulas
+// Jaime change: all of the returns appeared on 0.0, so I added the formulas.
