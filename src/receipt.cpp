@@ -17,6 +17,7 @@ double calculateTip(double subtotal, double tipPercent) {
     return subtotal * (tipPercent / 100) ;
 }
 
+
 // TODO: Return the final total.
 double calculateTotal(double subtotal, double tax, double tip) {
     return subtotal + tax + tip ;
